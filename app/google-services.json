@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "739905272044",
+    "firebase_url": "https://carritoedu-5681c.firebaseio.com",
+    "project_id": "carritoedu-5681c",
+    "storage_bucket": "carritoedu-5681c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739905272044:android:a990ab98e2cc56f9",
+        "android_client_info": {
+          "package_name": "com.edu.graceful.carritoedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "acode.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edu.graceful.carritoedu",
+            "certificate_hash": "eebbf3d741d1f7f3ff64b2fdc155e8c5c3a588d4"
+          }
+        },
+        {
+          "client_id": "739905272044-3if50rcseh0jph8eltdq85bmugi9sitd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfjEJfFye8YttIwEaMw_U7IYlSAwM9b8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739905272044-3if50rcseh0jph8eltdq85bmugi9sitd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
